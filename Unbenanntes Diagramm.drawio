@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T20:51:48.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="HXnymLu3Iybc5Em3dhkm" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T20:53:35.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="5TAINPyMNsdoUzH8Dw_3" version="21.3.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2229" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,8 +88,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="AulaQyxspUyqoasIDafI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AulaQyxspUyqoasIDafI-18" target="AulaQyxspUyqoasIDafI-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AulaQyxspUyqoasIDafI-18" value="Slidereached&lt;br&gt;&lt;br&gt;&lt;div style=&quot;background-color: rgb(33, 33, 33); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;Entry&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;driveStop&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;();&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;lightGreenOn&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;();&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;lightRedOff&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;();&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;lightYellowOff&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;();&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;turnLEDStartOn&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; white-space: normal;&quot;&gt;();&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="370" width="120" height="150" as="geometry" />
+          <mxGeometry x="560" y="360" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="AulaQyxspUyqoasIDafI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AulaQyxspUyqoasIDafI-19" target="AulaQyxspUyqoasIDafI-12">
           <mxGeometry relative="1" as="geometry" />
@@ -161,6 +168,12 @@
         </mxCell>
         <mxCell id="AulaQyxspUyqoasIDafI-69" value="&lt;div style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre&gt;isItemAtBeginning&lt;span style=&quot;color:#89ddff;&quot;&gt;()&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="230" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AulaQyxspUyqoasIDafI-71" value="&lt;div style=&quot;background-color: rgb(33, 33, 33); color: rgb(238, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt; line-height: 20%;&quot;&gt;&lt;pre style=&quot;line-height: 20%;&quot;&gt;isItemAtEnd&lt;span style=&quot;color:#89ddff;&quot;&gt;() || &lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;line-height: 20%;&quot;&gt;&lt;span style=&quot;color:#82aaff;&quot;&gt;isItemAtHightSensor&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;()&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="488" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AulaQyxspUyqoasIDafI-72" value="&lt;div style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre&gt;isButtonStartNegativeEdge&lt;span style=&quot;color:#89ddff;&quot;&gt;()&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="500" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
